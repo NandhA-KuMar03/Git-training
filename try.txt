@@ -4,4 +4,11 @@ Git
     git add . - Move all files to staging area
     git commit - Commit the files, -m for message
     git log - show all commit history
-    git clone - creates a local repo 
+    git clone - creates a local repo on the machine
+    1) grp
+    2)Travel
+    3)Accomodation
+    4)Travel itinerary
+    5)collect money
+    6)
+    7)Wake up from the dream
