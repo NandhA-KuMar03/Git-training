@@ -1,4 +1,7 @@
-Hello
-Added second line
-Added third line
-Added fourth line
+Git 
+    git init - initialize a empty repo
+    git status - shows how many files are staged, yet to change
+    git add . - Move all files to staging area
+    git commit - Commit the files, -m for message
+    git log - show all commit history
+    git clone - creates a local repo 
